@@ -1,3 +1,5 @@
+?* This code snippet is not Erica's code, it is property of freeCodeCampt website. I uploatd to my respository for reference  */
+
 function reverseString(str) {
 
     // Step 1. Use the split() method to return a new array
