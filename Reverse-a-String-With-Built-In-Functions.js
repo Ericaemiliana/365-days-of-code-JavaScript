@@ -1,4 +1,4 @@
-?* This code snippet is not Erica's code, it is property of freeCodeCampt website. I uploatd to my respository for reference  */
+/* This code snippet is not Erica's code, it is property of freeCodeCampt website. I uploatd to my respository for reference  */
 
 function reverseString(str) {
 
