@@ -12,6 +12,7 @@ function reverseString(str) {
     return reverseString(str.substr(1)) + str.charAt(0);
 
 /* 
+This code is not Erica's code, i found this exmaple online and wanted to have it savad in my respository for furthe reference
 
 First Part of the recursion method
 
